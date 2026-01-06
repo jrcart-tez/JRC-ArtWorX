@@ -1,4 +1,4 @@
-# JRC ArtWorX – Production Ready
+# JRC ArtWorX
 
 Fully deployable NFT minting app for Base + Farcaster.
 
